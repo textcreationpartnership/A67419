@@ -1985,13 +1985,30 @@
                <p>
                   <hi>The Square of the Base (of an Angle of</hi> 120 <hi>Degrees) is equal to the Squares of the Legs and a Rectangle of them.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p n="4">
+                  <pb n="51" facs="tcp:97370:27"/>IV. If the Angle A be 60 Degrees, or ⅔ of a Right<g ref="char:EOLhyphen"/>angle; and from thence, G, Γ, making Angles with the Base equal to that of A: Then are, (for the same causes as before) χGC, ΓδD, like Triangles to CDB, (as before;) and GΓμ an Equilater Triangle com<g ref="char:EOLhyphen"/>municating with them: And the Base, B=χ+δ−μ. (or χ−μ+δ.) And therefore,
+<figure/>
+                  <figure/>
+                  <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap> and <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap> And therefore, Cq+Dq−CD=(Bχ+Bδ−Bμ=B: into χ+δ−μ=B=) Bq. That is,</p>
                <p>
                   <hi>The Square of the Base (of an Angle of</hi> 60 <hi>Degrees) is equal to the Squares of the Legs, wanting the Rectangle of them.</hi>
                </p>
                <p>(Note here, that, by χ, I understand the Base to the Legs CG; by δ, that of the Legs DΓ; by μ, that of GΓ; and, by B, that of CD, which is ever equal to χ+δ±μ, however these parts be intermingled. Which where it is +μ, is commonly more obvious to the Eye; but where it is −μ, is more perplex, and will need more consideration to discern; but it is equally true in both cases.)</p>
-               <figure/>
+               <p n="5">V. If A be 135 Degrees (or 3/2 of a Quadrant,) and GΓ drawn (as before) to make the like Angle with the Base: The Triangles χGC, Γ δ D, will be like to CDB; and GΓμ will be Equi<g ref="char:EOLhyphen"/>crural,
+<figure/>
+making the Angles at the Base, of 45 De<g ref="char:EOLhyphen"/>grees, (so much as A wants of two Right-angles<g ref="char:punc">▪</g>) and therefore, the Angle at the Vertex (which I shall call V,) of 90 Degrees. And therefore, (by § 2.) μq=2Gq, and <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap> And the Base B=χ+δ+μ. And therefore, <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap> and <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap>. Therefore, <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap> into χ+δ+μ=B:=) Bq. That is,</p>
                <p>
                   <hi>The Square of the Base (of an Angle of</hi> 135 <hi>Degrees) is equal to the Squares of the Legs, with a Rectangle of them Multiplied into</hi> 
                   <gap reason="math">
